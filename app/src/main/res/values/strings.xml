@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">kotlinstudy</string>
     <string name="button">Кнопка</string>
+    <string name="new_note_title">Новая заметка</string>
 </resources>
