@@ -28,4 +28,17 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/ic_add_black_24dp"
+        android:tint="@color/white"
+        app:fabSize="normal"
+        app:layout_anchor="@id/rv_notes"
+        app:layout_anchorGravity="bottom|end" />
+
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
