@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723292881670",
+    "firebase_url": "https://kotlinstudy-4ca0e.firebaseio.com",
+    "project_id": "kotlinstudy-4ca0e",
+    "storage_bucket": "kotlinstudy-4ca0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723292881670:android:f6b02fafdba09a82611487",
+        "android_client_info": {
+          "package_name": "ru.nikitaboiko.kotlinstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723292881670-qos0p9kk8vfdemd87pv2vec9hmh7bt1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.nikitaboiko.kotlinstudy",
+            "certificate_hash": "d8f8e51d514ac0dc9e20e9c3cc295f0622fd3a96"
+          }
+        },
+        {
+          "client_id": "723292881670-3mg5rvf6g1i3r29fu2m4cfao7o0minl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY92QDt7VFcq4gmGokgoJaS2AG4Tf7Pl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723292881670-3mg5rvf6g1i3r29fu2m4cfao7o0minl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
